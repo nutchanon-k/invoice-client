@@ -55,7 +55,7 @@ const ShowInvoice = () => {
 
             <div className="md:block overflow-auto p-4">
                 <table className="w-full text-left">
-                    <thead>
+                    <thead className="bg-gray-200 sticky top-0 z-10">
                         <tr className="border-b">
                             <th className="p-2 text-center"></th>
                             <th className="p-4 text-center">หมายเลขเอกสาร</th>
