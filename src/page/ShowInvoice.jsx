@@ -49,8 +49,8 @@ const ShowInvoice = () => {
     return (
         <div className='flex flex-col h-screen '>
             <div className='flex justify-between p-4 '>
-                <h1 className='text-2xl font-semibold'>{"เอกสารใบกำกับภาษี"}</h1>
-                <Link to={"/create-invoice"} className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">+  เพิ่มใบกำกับภาษี</Link>
+                <h1 className='text-2xl font-semibold'>{"เอกสารใบแจ้งหนี้"}</h1>
+                <Link to={"/create-invoice"} className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">+  เพิ่มเอกสาร</Link>
             </div>
 
             <div className="md:block overflow-auto p-4">
