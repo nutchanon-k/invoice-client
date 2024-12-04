@@ -16,7 +16,7 @@
      ![ปุ่มแก้ไข](./src/assets/editButton.png)
      ![แก้ไขใบแจ้งหนี้](./src/assets/editInvoice.png)
    
-   
+   - **ลบรายการ**:
      ![ปุ่มลบ](./src/assets/deleteButton.png)
 
 4. **การ validate ข้อมูล**:
